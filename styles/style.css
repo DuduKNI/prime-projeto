@@ -1,0 +1,73 @@
+*{
+  margin: 0;
+  padding: 0;
+}
+
+body{
+  background: url(/components/images/background.jpg) no-repeat top center;
+  background-size: cover;
+  height: 100vh;
+  display: flex;
+  margin-top: 60px;
+  font-family: 'amazonemberlight', arial;
+}
+
+.content{
+  padding-left: 70px;
+}
+
+h1{
+  font-size: 40px;
+  line-height: 48px;
+  color: #ffffff;
+  font-style: normal;
+  font-weight: 700;
+  margin-bottom: 30px;
+  cursor: default;
+}
+
+.legenda p{
+  font-size: 21px;
+  line-height: 1.3;
+  color: #ffffff;
+  font-style: normal;
+  font-weight: 400;
+  max-width: 500px;
+  min-width: 300px;
+  text-align: left;
+  padding-right: 10px;
+  cursor: default;
+}
+
+.login-teste{
+  width: 300px;
+  max-width: 100%;
+  color: white;
+}
+
+.login-teste a{
+  padding: 16px 5px;
+  background-color: #0F79AF;
+  background-image: linear-gradient(to top,#0F79AF,#0F79AF);
+  font-size: 17px;
+  display: block;
+  margin-top: 48px;
+  margin-bottom: 48px;
+  border-radius: 2px;
+  font-weight: 700;
+  width: 100%;
+  height: 100%;
+  color: white;
+  text-align: center;
+  text-decoration: none;
+  max-width: 280px;
+}
+
+p{
+  color: white;
+  font-style: normal;
+  font-size: 15px;
+  line-height: 20px;
+  font-weight: 400;
+  cursor: default;
+}

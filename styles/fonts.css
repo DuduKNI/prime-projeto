@@ -1,0 +1,13 @@
+@font-face {
+  font-family: 'amazonemberlight';
+  src: url('/components/fonts/Amazon_Typefaces_Complete_Font_Set_Mar2020/Ember/AmazonEmber_Lt.ttf') format('truetype');
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'amazonember';
+  src: url('/components/fonts/Amazon_Typefaces_Complete_Font_Set_Mar2020/') format('truetype');
+  font-weight: normal;
+  font-style: normal;
+}
